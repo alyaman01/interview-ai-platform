@@ -1,4 +1,4 @@
-[index.html](https://github.com/user-attachments/files/30168155/index.html)
+[index.html](https://github.com/user-attachments/files/30168200/index.html)
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -949,12 +949,6 @@ renderInsights();
 renderRecommendations();
 renderExecSummary();
 renderCharts();
-</script><img width="1385" height="655" alt="Screenshot 2026-07-19 at 10 15 56 PM" src="https://github.com/user-attachments/assets/013d6bbe-63f7-42d9-9ba0-f64153206cbe" /><img width="1382" height="654" alt="Screenshot 2026-07-19 at 10 16 35 PM" src="https://github.com/user-attachments/assets/4fdf7083-1993-49f0-a7f5-02f400eb45c5" />
-<img width="1384" height="656" alt="Screenshot 2026-07-19 at 10 16 28 PM" src="https://github.com/user-attachments/assets/677ea1a6-9cd8-4f27-8e3e-9d227d38a74a" />
-<img width="1386" height="658" alt="Screenshot 2026-07-19 at 10 16 18 PM" src="https://github.com/user-attachments/assets/f9e19f4c-c17e-46b3-a378-d2397f613a70" />
-<img width="1384" height="654" alt="Screenshot 2026-07-19 at 10 16 06 PM" src="https://github.com/user-attachments/assets/cb9b47ad-240d-43da-a4ca-8ec5a84f2866" />
-![Uploading Screenshot 2026-07-19 at 10.15.56 PM.png…]()
-
-
+</script>
 </body>
 </html>
